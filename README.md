@@ -59,7 +59,7 @@ Ce projet contient du **langage satirique et vulgaire** à but humoristique, en 
 
 Exercice réalisé par **David S.**  
 Dans le cadre de la formation [The Hacking Project](https://www.thehackingproject.org/)  
-2025
+2018
 
 ---
 
